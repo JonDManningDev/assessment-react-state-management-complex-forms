@@ -1,3 +1,9 @@
+# Assessment: React State Management - Complex Forms
+
+*This repo is my solution for the Qualified assessment for 5.3.9.*
+
+*Write RSVPForm.js to handle a variety of form inputs as a controlled component tied to React state.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
